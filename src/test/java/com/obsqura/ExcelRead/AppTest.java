@@ -19,6 +19,7 @@ public class AppTest
     {
         super( testName );
         System.out.println("git demo");
+        System.out.println("git demo 1");
     }
 
     /**
